@@ -1,0 +1,11 @@
+{
+  "name": "Kaffeine",
+  "description": "HEROKU",
+  "repository": "https://github.com/romainbutteaud/Kaffeine",
+  "logo": "https://avatars.githubusercontent.com/u/71500526?v=4",
+  "keywords": ["HEROKU", "Free", "Kaffeine" ],
+
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
